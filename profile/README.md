@@ -1,4 +1,11 @@
-# 🌲 Vraksha
+# 🌲 Vraksha - Your Personal AI Assistant
+
+<p align="center">
+  <img src="https://github.com/vraksha/vraksha/blob/main/assets/Vraksha.png" alt="Vraksha Logo" style="width: 60%;">
+</p>
+
+A **personal** AI agent that remembers.
+
 
 **Building Persistent Intelligence.** Vraksha is an organization dedicated to solving the **Persistence Problem** in artificial intelligence. We believe that for AI to be a true collaborator, it must possess a continuous consciousness, one that lives on your machine, respects your boundaries, and evolves alongside your projects.
 
