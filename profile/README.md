@@ -1,7 +1,7 @@
 # Vraksha: Architecting Persistent Intelligence
 
 <p align="center">
-  <img src="https://github.com/vraksha/vraksha/blob/main/assets/Vraksha.png" alt="Vraksha Logo" style="width: 55%;">
+  <img src="https://github.com/vraksha/.github/blob/main/profile/Vraksha.png" alt="Vraksha Logo" style="width: 55%;">
 </p>
 
 ### "Intelligence is nothing without Continuity."
