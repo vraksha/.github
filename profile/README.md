@@ -1,4 +1,4 @@
-# Vraksha: Architecting Persistent Intelligence
+# Vraksha: A Friend Who Always Remembers You
 
 <p align="center">
   <img src="https://github.com/vraksha/.github/blob/main/profile/Vraksha.png" alt="Vraksha Logo" style="width: 55%;">
